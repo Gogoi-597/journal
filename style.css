@@ -1,0 +1,59 @@
+.navbar{
+   
+    display: flex;
+    width: 100%;
+    background: green;
+    border-radius: 5px;
+
+}
+.nav:hover{
+    background: white;
+    color: black;
+}
+
+
+.li{
+   
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+ul{
+    list-style: none;
+    overflow: none;
+}
+.nav{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    border: 1px solid wheat;
+    padding: 3px,3px,3px,3px;
+   
+}
+body{
+    background: #c2b6b6;
+}
+.article{
+    border: 2px dotted white;
+    background-color: aquamarines;
+}
+h2{
+    margin-left: 2cm;
+}
+.live{
+    text-decoration: none;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+}
+.wel h1 h2{
+    margin-left: 1cm;
+}
+footer{
+    text-align: center;
+    margin-top: 5cm;
+}
+
